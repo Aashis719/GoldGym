@@ -2,7 +2,7 @@
 
 **GoldGym** is a bold, modern, and performance-focused fitness website built to represent a premium gym brand with energy and style. Designed with a clean dark aesthetic, smooth animations, and responsive layouts, it highlights fitness programs, trainers, and membership plans all crafted to motivate visitors and showcase the brand’s strength.
 
-![GoldGym Homepage](/GoldGym.png)
+![GoldGym Homepage](/GoldGym-web/public/GoldGym.png)
 
 ---
 
@@ -29,7 +29,7 @@
 
 ## 🚀 Live Demo
 
-👉 [Visit GoldGym Live](#) *(add your deployed link here once live)*  
+👉 [https://goldgym-web.vercel.app/](#)  
 
 ---
 
