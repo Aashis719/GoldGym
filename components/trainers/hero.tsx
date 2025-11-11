@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion"
 
-export function TrainersHero() {
+export function TrainersHero() { 
   return (
     <section className="relative w-full min-h-screen bg-neutral-900 overflow-hidden pt-16 flex items-center">
       {/* Background */}
