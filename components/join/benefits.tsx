@@ -9,7 +9,7 @@ const benefits = [
     icon: Dumbbell,
     title: "State-of-the-Art Equipment",
     description: "Access to premium fitness equipment and facilities",
-  },
+  }, 
   {
     icon: Users,
     title: "Expert Trainers",
