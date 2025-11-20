@@ -6,7 +6,7 @@ import { JoinBenefits } from "@/components/join/benefits"
 
 export default function JoinPage() {
   return (
-    <main className="bg-neutral-900 overflow-hidden">
+    <main className="bg-neutral-900 overflow-hidden"> 
       <Navbar />
       <JoinHero />
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-0">
