@@ -7,7 +7,7 @@
 ## 🔥 Features
 
 - Powerful hero section with inspiring visuals and CTA  
-- About section sharing GoldGym’s mission and fitness values  
+- About section sharing GoldGym’s mission and fitness values   
 - Programs section highlighting training options and benefits  
 - Trainer showcase with hover effects and dynamic presentation  
 - Smooth scroll animations and transitions for engaging experience  
