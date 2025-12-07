@@ -10,7 +10,7 @@
 - About section sharing GoldGym’s mission and fitness values   
 - Programs section highlighting training options and benefits  
 - Trainer showcase with hover effects and dynamic presentation  
-- Smooth scroll animations and transitions for engaging experience  
+- Smooth scroll animations and transitions for engaging experience   
 - Fully responsive design for mobile, tablet, and desktop  
 - Modern dark theme with gold accents for a premium look  
 
