@@ -12,7 +12,7 @@ export function ContactHero() {
           backgroundImage: "url(/contact-bgg.jpg)",
           backgroundAttachment: "fixed",
         }}
-      >
+      > 
         <div className="absolute inset-0 bg-gradient-to-b from-neutral-900/70 via-neutral-900/50 to-neutral-900/80" />
       </div>
 
