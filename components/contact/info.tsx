@@ -8,7 +8,7 @@ const contactInfo = [
   {
     icon: MapPin,
     title: "Location",
-    details: ["Imadol, Lalitpur", "Kathmandu, Nepal"],
+    details: ["Imadol, Lalitpur", "Kathmandu, Nepal"], 
   },
   {
     icon: Phone,
